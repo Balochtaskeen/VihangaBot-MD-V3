@@ -20,7 +20,7 @@
    
    ```Thanks Fro using Vihanga MD```
 
-## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
+## Thanks To : [`TASKEEN OFFICIAL`](https://github.com/zim-bot/zimbot-v4)
 
 # Support Group <a href="https://chat.whatsapp.com/L9DS31XNKGtAR3DiLN6AvF"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
